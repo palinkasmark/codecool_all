@@ -1,0 +1,16 @@
+GIT:
+
+Git filters for the temp folder and the tmp extension.
+
+
+Add ignored content
+
+Add a folder named temp and copy lorem.txt in it. If the .gitignore file is written properly, this file does not get committed.
+There is a lorem.txt file in the temp folder in the working directory.
+
+
+Rename file-ba elkell-e tünnie az előzőnek vagy sem (tehát githubon hánynak kell lennie és nekem miért van kettő?). Én átneveztem és nem vágom miért lett lorem és lorem_ipsum txt is a githubbon, amikor elvileg átneveztem és ugye úgy pusholtam, szóval csak a lorem_ipsumtxt nek kellene lennie.
+
+
+PYTHON:
+pip3 --version ugyanannak kell-e lennie, mint a python3 -nak, de szerintem egyáltalán nem...

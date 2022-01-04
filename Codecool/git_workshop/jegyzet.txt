@@ -1,0 +1,18 @@
+git log --pretty=oneline
+
+origin/develpoment, origin/HEAD sor ameddig felvan pusholva és a HEAD -> develpoment sor ami commitolva van de nincs pusholva.
+
+
+git checkout <hash> -> visszamegy korábbi verzióra
+git switch - -> ez meg asszem újra visszacsinálja az eredetire ahol éppen is amúgy tartunk
+
+git fetch - csak az metainfókat látjuk a repóról, de nem változtat meg semmit
+
+pl git status mindenok
+git fetch
+git status elvagy csúszva
+
+van amikor először fetchelni kell, de ezt úgyis írja
+
+
+VI- ben a legfontosabb parancs a 'wq' amivel kilehet lépni meg el is menti 
